@@ -1,0 +1,11 @@
+{
+  "item.coins.copper_coin": "Copper Coin",
+  "item.coins.gold_coin": "Gold Coin",
+  "item.coins.silver_coin": "Silver Coin",
+  "item.coins.diamond_coin": "Diamond Coin",
+  "item.coins.emerald_coin": "Emerald Coin",
+  "item.coins.platinum_coin": "Platinum Coin",
+  "item.coins.coin_pattern": "Coin Pattern",
+
+  "creativetab.coins_tab": "Coins Tab"
+}
